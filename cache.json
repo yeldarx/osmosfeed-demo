@@ -6,159 +6,169 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=380589",
-          "author": "Daniel Schwarz",
-          "description": "The text-box-trim and text-box-edge properties in CSS enable developers to trim specifiable amounts of the whitespace that appear above the first formatted line of text and below the last formatted line of text in a text box, making the text …\nTwo CSS Properties for Trimming Text Box Whitespace originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/two-css-properties-for-trimming-text-box-whitespace/",
-          "publishedOn": "2024-09-13T14:11:32.000Z",
-          "wordCount": 2780,
-          "title": "Two CSS Properties for Trimming Text Box Whitespace",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380589"
+          "id": "https://css-tricks.com/?p=381773",
+          "author": "Temani Afif",
+          "description": "CSS gradients have been so long that there’s no need to rehash what they are and how to use them. You have surely encountered them at some point in your front-end journey, and if you follow me, you also …\nCSS Tricks That Use Only One Gradient originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-tricks-that-use-only-one-gradient/",
+          "publishedOn": "2024-10-11T21:48:01.000Z",
+          "wordCount": 3461,
+          "title": "CSS Tricks That Use Only One Gradient",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381773"
         },
         {
-          "id": "https://css-tricks.com/?p=380692",
+          "id": "https://css-tricks.com/?p=381752",
           "author": "Geoff Graham",
-          "description": "I collect a bunch of links in a bookmarks folder. These are things I fully intend to read, and I do — eventually. It’s a good thing bookmarks are digital, otherwise, I’d need a bigger coffee table to separate them …\nWhat’s Old is New originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/whats-old-is-new-2/",
-          "publishedOn": "2024-09-12T14:05:12.000Z",
-          "wordCount": 3087,
-          "title": "What’s Old is New",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380692"
+          "description": "It’s always a gas when a good person doing good work gets a good deal. In this case, Jason’s viral WPGraphQL plugin has not only become a canonical WordPress plugin, but creator Jason Bahl is joining Automattic as well.\nI’m …\nWPGraphQL Becomes a Canonical Plugin: My Move to Automattic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/wpgraphql-becomes-a-canonical-plugin-my-move-to-automattic/",
+          "publishedOn": "2024-10-10T14:00:32.000Z",
+          "wordCount": 1465,
+          "title": "WPGraphQL Becomes a Canonical Plugin: My Move to Automattic",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381752"
         },
         {
-          "id": "https://css-tricks.com/?p=380325",
-          "author": "Fatuma Abdullaho",
-          "description": "HTML forms come with built-in ways to validate form inputs and other controls against predefined rules such as making an input required, setting min and max constraints on range sliders, or establishing a pattern on an email input to check …\nTwo Ways to Create Custom Translated Messaging for HTML Forms originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/two-ways-to-create-custom-translated-messaging-for-html-forms/",
-          "publishedOn": "2024-09-11T14:42:20.000Z",
-          "wordCount": 2441,
-          "title": "Two Ways to Create Custom Translated Messaging for HTML Forms",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380325"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380660",
-          "author": "Geoff Graham",
-          "description": "PSA: Today’s the day that Google’s performance tools officially stops supporting the First Input Delay (FID) metric that was replaced by Interaction to Next Paint (INP).…\nQuick Hit #18 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-18/",
-          "publishedOn": "2024-09-10T18:40:28.000Z",
-          "wordCount": 1297,
-          "title": "Quick Hit #18",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380660"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380521",
+          "id": "https://css-tricks.com/?p=381678",
           "author": "Juan Diego Rodríguez",
-          "description": "I am thrilled to say, that from this week onwards, the CSS-tricks Almanac has an entry for each property, function, and at-rule related to the new Anchor Positioning API! For the last month, I have tried to fully understand this …\nAnchor Positioning Quirks originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/anchor-positioning-quirks/",
-          "publishedOn": "2024-09-10T18:33:01.000Z",
-          "wordCount": 2916,
-          "title": "Anchor Positioning Quirks",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380521"
+          "description": "More times than I can count, while writing, I get myself into random but interesting topics with little relation to the original post. In the end, I have to make the simple but painful choice of deleting or archiving hours …\n2024: More CSS At-Rules Than the Past Decade Combined originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/2024-more-css-at-rules-than-the-past-decade-combined/",
+          "publishedOn": "2024-10-09T14:10:33.000Z",
+          "wordCount": 2132,
+          "title": "2024: More CSS At-Rules Than the Past Decade Combined",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381678"
         },
         {
-          "id": "https://css-tricks.com/?p=380662",
+          "id": "https://css-tricks.com/?p=381729",
           "author": "Geoff Graham",
-          "description": "Jim hit a snag while working on a form. Placing labels next to inputs is trivial with flexbox, sure, but what happened in Jim’s case was a bit of dead-clicking between the labels and radio buttons.\nThe issue? Not the …\nSanding UI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/sanding-ui/",
-          "publishedOn": "2024-09-10T13:00:00.000Z",
-          "wordCount": 1472,
-          "title": "Sanding UI",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380662"
+          "description": "I sat down with Heydon Pickering in the most recent episode of the Smashing Hour. Full transparency: I was nervous as heck. I’ve admired Heydon’s work for years, and even though we run in similar circles, this was our first …\nSmashing Hour With Heydon Pickering originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/smashing-hour-with-heydon-pickering/",
+          "publishedOn": "2024-10-08T15:22:02.000Z",
+          "wordCount": 1562,
+          "title": "Smashing Hour With Heydon Pickering",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381729"
         },
         {
-          "id": "https://css-tricks.com/?p=380334",
-          "author": "Lee Meyer",
-          "description": "Checkbox and radio button hacks are the (in)famous trick for creating games using just CSS. But it turns out that other elements based on user input can be hacked and gamified. There are very cool examples of developers getting creative with CSS games based on…\nTime Travelling CSS With :target originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/time-travelling-css-with-target/",
-          "publishedOn": "2024-09-09T15:16:51.000Z",
-          "wordCount": 2852,
-          "title": "Time Travelling CSS With :target",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380334"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380517",
-          "author": "Geoff Graham",
-          "description": "Quite a fun article I worked on with Philip Braunen. Do you know that little bit of elasticity you get when scrolling beyond the viewport when browsing the web on a mobile device? iPhone calls it a “rubber-banding” effect. …\nSticky Headers And Full-Height Elements: A Tricky Combination originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/sticky-headers-and-full-height-elements-a-tricky-combination/",
-          "publishedOn": "2024-09-09T14:09:12.000Z",
-          "wordCount": 1450,
-          "title": "Sticky Headers And Full-Height Elements: A Tricky Combination",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380517"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380584",
+          "id": "https://css-tricks.com/?p=381674",
           "author": "Juan Diego Rodríguez",
-          "description": "“Wrapping the <labelaround the <inputis fine, and is sufficient for conformance on its own, however adding explicit association with for and id is still necessary in practice.” —James Edwards…\nQuick Hit #17 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-17/",
-          "publishedOn": "2024-09-09T13:53:42.000Z",
-          "wordCount": 1307,
-          "title": "Quick Hit #17",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380584"
+          "description": "The @supports at-rule has been extended several times since its initial release. Once only capable of checking support for property/value pairs, it can now check for a selector using the selector() wrapper function and different font formats and techs using …\nRecipes for Detecting Support for CSS At-Rules originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/recipes-for-detecting-support-for-css-at-rules/",
+          "publishedOn": "2024-10-07T19:46:07.000Z",
+          "wordCount": 2618,
+          "title": "Recipes for Detecting Support for CSS At-Rules",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381674"
         },
         {
-          "id": "https://css-tricks.com/?p=380340",
+          "id": "https://css-tricks.com/?p=381662",
+          "author": "Ryan Trimble",
+          "description": "There is an amazing community effort happening in search of a new logo for CSS. I was a bit skeptical at first, as I never really considered CSS a “brand.” Why does it need a logo? For starters, the current …\nSearching for a New CSS Logo originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/searching-for-a-new-css-logo/",
+          "publishedOn": "2024-10-07T16:49:59.000Z",
+          "wordCount": 2130,
+          "title": "Searching for a New CSS Logo",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381662"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381210",
           "author": "Geoff Graham",
-          "description": "“Never, ever hire for JavaScript framework skills. Instead, interview and hire only for fundamentals like web standards, accessibility, modern CSS, semantic HTML, and Web Components.” — Alex Russell…\nQuick Hit #16 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-16/",
-          "publishedOn": "2024-09-05T16:04:28.000Z",
-          "wordCount": 1411,
-          "title": "Quick Hit #16",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380340"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380298",
-          "author": "Geoff Graham",
-          "description": "Almost missed that the WP Twenty Twenty-Five theme was approved a couple weeks ago.…\nQuick Hit #15 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-15/",
-          "publishedOn": "2024-09-05T16:02:26.000Z",
-          "wordCount": 1312,
-          "title": "Quick Hit #15",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380298"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380296",
-          "author": "Geoff Graham",
-          "description": "Inclusive Design 24 is in 8 short days — and it’s FREE, no sign-up required!…\nQuick Hit #14 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-14/",
-          "publishedOn": "2024-09-03T19:08:42.000Z",
-          "wordCount": 1278,
-          "title": "Quick Hit #14",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380296"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380214",
-          "author": "Geoff Graham",
-          "description": "Seems like we’re always talking about clipping text around here. All it takes is a little browsing to spot a bunch of things we’ve already explored.\n    \n        Article\n\n    on\n    Sep 19, 2012  \n    \n\n      accessibility content truncation    \n    \n\n    \n…\nAnother Stab at Truncated Text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/another-stab-at-truncated-text/",
-          "publishedOn": "2024-09-03T15:57:29.000Z",
-          "wordCount": 2801,
-          "title": "Another Stab at Truncated Text",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380214"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380227",
-          "author": "Juan Diego Rodríguez",
-          "description": "View Transitions are one of the most awesome features CSS has shipped in recent times. Its title is self-explanatory: transitions between views are possible with just CSS, even across pages of the same origin! What’s more interesting is its …\nCSSWG Minutes Telecon (2024-08-21) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/csswg-minutes-telecon-2024-08-21/",
-          "publishedOn": "2024-08-30T19:06:07.000Z",
-          "wordCount": 2994,
-          "title": "CSSWG Minutes Telecon (2024-08-21)",
+          "description": "Kate Kaplan hits on something over at Nielsen Norman Group’s blog that’s been bugging me:\nThe challenge with this icon is sparkle ambiguity: Participants in our recent research study generally agreed that it represented something a little special\n…\nThe Proliferation and Problem of the ✨ Sparkles ✨ Icon originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-proliferation-and-problem-of-the-sparkles-icon/",
+          "publishedOn": "2024-10-03T15:18:16.000Z",
+          "wordCount": 2036,
+          "title": "The Proliferation and Problem of the ✨ Sparkles ✨ Icon",
           "enclosure": {
-            "url": "https://developer.chrome.com/static/blog/view-transitions-update-io24/video/airbnb.mp4",
-            "length": "1989401",
+            "url": "https://css-tricks.com/wp-content/uploads/2024/10/notion-ai-icon-animated.mp4",
+            "length": "900402",
             "type": "video/mp4"
           },
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380227"
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381210"
         },
         {
-          "id": "https://css-tricks.com/?p=380206",
+          "id": "https://css-tricks.com/?p=381247",
           "author": "Geoff Graham",
-          "description": "I sure do love little reminders about HTML semantics, particularly semantics that are tougher to commit to memory. Scott has a great one, beginning with this markup:\n<pI am a paragraph.</p<spanI am also a paragraph.</span<div\n…\nParagraphs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/paragraphs/",
-          "publishedOn": "2024-08-30T14:23:52.000Z",
-          "wordCount": 1774,
-          "title": "Paragraphs",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380206"
+          "description": "Many of you — perhaps most of you — have been sitting on the sidelines while WordPress and WP Engine trade legal attacks on one another. It’s been widely covered as we watch it unfold in the open; ironically, in …\nCatching Up on the WordPress 🚫 WP Engine Sitch originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/catching-up-on-the-wordpress-wp-engine-sitch/",
+          "publishedOn": "2024-10-03T13:10:48.000Z",
+          "wordCount": 5345,
+          "title": "Catching Up on the WordPress 🚫 WP Engine Sitch",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381247"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381364",
+          "author": "Juan Diego Rodríguez",
+          "description": "Learn about CSS Anchor Positioning, including its syntax, properties, how it is used to position one element next to another, and even how it's used to resize elements relative to other elements.\nCSS Anchor Positioning Guide originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-anchor-positioning-guide/",
+          "publishedOn": "2024-10-02T15:26:48.000Z",
+          "wordCount": 5983,
+          "title": "CSS Anchor Positioning Guide",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2024/09/multiple-anchors-gumby.mov",
+            "length": "14897344",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381364"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381216",
+          "author": "Geoff Graham",
+          "description": "An approach for creating masonry layouts in vanilla CSS is one of those “holy grail” aspirations. I actually tend to plop masonry and the classic “Holy Grail” layout in the same general era of web design. They’re different types of …\nCSS Masonry & CSS Grid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-masonry-css-grid/",
+          "publishedOn": "2024-09-30T13:56:11.000Z",
+          "wordCount": 3623,
+          "title": "CSS Masonry & CSS Grid",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381216"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381191",
+          "author": "Lee Meyer",
+          "description": "The creator of CSS has said he originally envisaged CSS as the main web technology to control behavior on web pages, with scripting as a fallback when things weren’t possible declaratively in CSS. The rationale for a CSS-first approach was …\nSlide Through Unlimited Dimensions With CSS Scroll Timelines originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/slide-through-unlimited-dimensions-with-css-scroll-timelines/",
+          "publishedOn": "2024-09-27T18:39:23.000Z",
+          "wordCount": 2357,
+          "title": "Slide Through Unlimited Dimensions With CSS Scroll Timelines",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381191"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381293",
+          "author": "Geoff Graham",
+          "description": "Miriam Suzanne’s in the middle of a redesign of her personal website. It began in August 2022. She’s made an entire series out of the work that’s worth your time, but I wanted to call out the fifth and latest …\nAggregating my distributed self originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/aggregating-my-distributed-self/",
+          "publishedOn": "2024-09-27T15:24:07.000Z",
+          "wordCount": 2580,
+          "title": "Aggregating my distributed self",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381293"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381230",
+          "author": "Geoff Graham",
+          "description": "A new tool from Eric Meyer, Brian Kardell, and Stephanie Stimac backed with Igalia’s support. Brian announced it on his blog, as did Eric, describing it like this:\nWhat BCD Watch does is, it grabs releases of the Browser \n…\nBCD Watch originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/bcd-watch/",
+          "publishedOn": "2024-09-26T14:28:48.000Z",
+          "wordCount": 1504,
+          "title": "BCD Watch",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381230"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381060",
+          "author": "Preethi",
+          "description": "The <select> element is a fairly straightforward concept: focus on it to reveal a set of <option>s that can be selected as the input’s value. That’s a great pattern and I’m not suggesting we change it. That said, I …\nHow to Make a “Scroll to Select” Form Control originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-to-make-a-scroll-to-select-form-control/",
+          "publishedOn": "2024-09-25T14:31:54.000Z",
+          "wordCount": 2981,
+          "title": "How to Make a “Scroll to Select” Form Control",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2024/09/scroll-to-select.mov",
+            "length": "865130",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381060"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381068",
+          "author": "Geoff Graham",
+          "description": "Mixing colors in CSS is pretty much a solved deal, thanks to the more recent color-mix() function as it gains support. Pass in two color values — any two color values at all — and optionally set the proportions.\nbackground-color: \n…\nColor Mixing With Animation Composition originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/color-mixing-with-animation-composition/",
+          "publishedOn": "2024-09-24T18:22:01.000Z",
+          "wordCount": 1866,
+          "title": "Color Mixing With Animation Composition",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381068"
         }
       ]
     },
@@ -168,169 +178,154 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
-          "id": "https://smashingmagazine.com/2024/09/how-build-custom-data-visualizations-luzmo-flex/",
-          "author": "hello@smashingmagazine.com (Paul Scanlon)",
-          "description": "Bringing data to life in your application can be done without the usual headaches. Paul Scanlon shows you how you can build beautiful data visualizations using the Google Analytics API, and you won’t have to spend any time “massaging” the data.",
-          "link": "https://smashingmagazine.com/2024/09/how-build-custom-data-visualizations-luzmo-flex/",
-          "publishedOn": "2024-09-12T11:00:00.000Z",
-          "wordCount": 5778,
-          "title": "How To Build Custom Data Visualizations Using Luzmo Flex",
+          "id": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
+          "author": "hello@smashingmagazine.com (Joas Pambou)",
+          "description": "In this third part of the series, you are looking at two models that handle all three modalities — text, images or videos, and audio — without needing a second model for text-to-speech or speech recognition.",
+          "link": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
+          "publishedOn": "2024-10-11T10:00:00.000Z",
+          "wordCount": 5606,
+          "title": "Using Multimodal AI Models For Your Applications (Part 3)",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/how-build-custom-data-visualizations-luzmo-flex/how-build-custom-data-visualizations-luzmo-flex.jpg",
+            "url": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/how-build-custom-data-visualizations-luzmo-flex/how-build-custom-data-visualizations-luzmo-flex.jpg"
+          "imageUrl": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2024/09/why-anticipatory-design-not-working-businesses/",
-          "author": "hello@smashingmagazine.com (Joana Cerejo)",
-          "description": "Anticipatory design, powered by Artificial Intelligence (AI), Machine learning (ML), and Big Data (BD), promises to transform user experiences by predicting and fulfilling needs before users even express them. While this proactive approach seems revolutionary, many businesses struggle to meet the high expectations it sets. Joana Cerejo delves into the challenges of anticipatory design, highlights key failures, and offers a framework to help designers and businesses succeed in this complex landscape.",
-          "link": "https://smashingmagazine.com/2024/09/why-anticipatory-design-not-working-businesses/",
-          "publishedOn": "2024-09-10T10:00:00.000Z",
-          "wordCount": 6314,
-          "title": "Why Anticipatory Design Isn’t Working For Businesses",
+          "id": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
+          "author": "hello@smashingmagazine.com (Karin Hendrikse)",
+          "description": "RSS is a classic technology that fetches content from websites and feeds it to anyone who subscribes to it with a URL. It’s based on XML, and we can use it to consume the feeds in our own apps. Karin Hendrikse demonstrates how to do exactly that with a static site you can use as your personal RSS reader.",
+          "link": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
+          "publishedOn": "2024-10-07T13:00:00.000Z",
+          "wordCount": 4778,
+          "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/why-anticipatory-design-not-working-businesses/why-anticipatory-design-not-working-businesses.jpg",
+            "url": "http://files.smashing.media/articles/build-static-rss-reader-fight-fomo/build-static-rss-reader-fight-fomo.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/why-anticipatory-design-not-working-businesses/why-anticipatory-design-not-working-businesses.jpg"
+          "imageUrl": "http://files.smashing.media/articles/build-static-rss-reader-fight-fomo/build-static-rss-reader-fight-fomo.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2024/09/how-create-weekly-google-analytics-report-posts-slack/",
-          "author": "hello@smashingmagazine.com (Paul Scanlon)",
-          "description": "Google Analytics is often on a “need to know” basis, but why not flip the script? Paul Scanlon shares how he wrote a GitHub Action that queries Google Analytics to automatically generate and post a top ten page views report to Slack, making it incredibly easy to track page performance and share insights with your team.",
-          "link": "https://smashingmagazine.com/2024/09/how-create-weekly-google-analytics-report-posts-slack/",
-          "publishedOn": "2024-09-06T17:00:00.000Z",
-          "wordCount": 4883,
-          "title": "How To Create A Weekly Google Analytics Report That Posts To Slack",
+          "id": "https://smashingmagazine.com/2024/10/how-bottom-up-design-approach-enhances-site-accessibility/",
+          "author": "hello@smashingmagazine.com (Eleanor Hecks)",
+          "description": "You can’t overstate the importance of accessible website design. By the same token, bottom-up philosophies are crucial in modern site-building. A detail-oriented approach makes it easier to serve a more diverse audience along several fronts. Making the most of this opportunity will both extend your reach to new niches and make the web a more equitable place.",
+          "link": "https://smashingmagazine.com/2024/10/how-bottom-up-design-approach-enhances-site-accessibility/",
+          "publishedOn": "2024-10-04T09:00:00.000Z",
+          "wordCount": 5157,
+          "title": "How A Bottom-Up Design Approach Enhances Site Accessibility",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/how-create-weekly-google-analytics-report-posts-slack/how-create-weekly-google-analytics-report-posts-slack.jpg",
+            "url": "http://files.smashing.media/articles/how-bottom-up-design-approach-enhances-site-accessibility/how-bottom-up-design-approach-enhances-site-accessibility.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/how-create-weekly-google-analytics-report-posts-slack/how-create-weekly-google-analytics-report-posts-slack.jpg"
+          "imageUrl": "http://files.smashing.media/articles/how-bottom-up-design-approach-enhances-site-accessibility/how-bottom-up-design-approach-enhances-site-accessibility.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/",
-          "author": "hello@smashingmagazine.com (Philip Braunen)",
-          "description": "Sticky positioning is one of those CSS features that’s pretty delicate and can be negated by a lot of things, so here’s another one to add to your mental catalog: Sticky elements don’t play nicely if they have to coordinate with other elements to make up a combined height, like `100vh`. Philip Braunen explores why this happens and presents a solution to fix it.",
-          "link": "https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/",
-          "publishedOn": "2024-09-05T09:00:00.000Z",
-          "wordCount": 4328,
-          "title": "Sticky Headers And Full-Height Elements: A Tricky Combination",
+          "id": "https://smashingmagazine.com/2024/10/interview-bjorn-ottosson-creator-oklab-color-space/",
+          "author": "hello@smashingmagazine.com (Philip Jägenstedt)",
+          "description": "Go behind the scenes with Björn Ottosson, the Swedish engineer who created Oklab color space, and discover how he developed a simple yet effective model with good hue uniformity while also handling lightness and saturation well — and is “okay” to use.",
+          "link": "https://smashingmagazine.com/2024/10/interview-bjorn-ottosson-creator-oklab-color-space/",
+          "publishedOn": "2024-10-02T10:00:00.000Z",
+          "wordCount": 4624,
+          "title": "Interview With Björn Ottosson, Creator Of The Oklab Color Space",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/sticky-headers-full-height-elements-tricky-combination/sticky-headers-full-height-elements-tricky-combination.jpg",
+            "url": "http://files.smashing.media/articles/interview-bjorn-ottosson-creator-oklab-color-space/interview-bjorn-ottosson-creator-oklab-color-space.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/sticky-headers-full-height-elements-tricky-combination/sticky-headers-full-height-elements-tricky-combination.jpg"
+          "imageUrl": "http://files.smashing.media/articles/interview-bjorn-ottosson-creator-oklab-color-space/interview-bjorn-ottosson-creator-oklab-color-space.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2024/09/big-difference-between-digital-product-and-web-design/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "Designing for digital products requires a different mindset than traditional websites. It’s all about continuous adaptation, refining, and iterating as user behavior and needs evolve. Paul Boag reflects on the key differences, including how the frequency of usage impacts your design approach and what you can do about it.",
-          "link": "https://smashingmagazine.com/2024/09/big-difference-between-digital-product-and-web-design/",
-          "publishedOn": "2024-09-03T09:00:00.000Z",
-          "wordCount": 4103,
-          "title": "The Big Difference Between Digital Product And Web Design",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/big-difference-between-digital-product-and-web-design/big-difference-between-digital-product-and-web-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/big-difference-between-digital-product-and-web-design/big-difference-between-digital-product-and-web-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/08/desktop-wallpaper-calendars-september-2024/",
+          "id": "https://smashingmagazine.com/2024/09/desktop-wallpaper-calendars-october-2024/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s get ready for September with a fresh collection of desktop wallpapers! Created with love by the community for the community, they come in versions with and without a calendar. Enjoy!",
-          "link": "https://smashingmagazine.com/2024/08/desktop-wallpaper-calendars-september-2024/",
-          "publishedOn": "2024-08-31T08:00:00.000Z",
-          "wordCount": 5332,
-          "title": "Goodbye Summer, Hello September (2024 Wallpapers Edition)",
+          "description": "Could there be a better way to celebrate the beginning of a new month than with a collection of desktop wallpapers? We’ve got some eye-catching designs to sweeten up your October. Enjoy!",
+          "link": "https://smashingmagazine.com/2024/09/desktop-wallpaper-calendars-october-2024/",
+          "publishedOn": "2024-09-30T09:00:00.000Z",
+          "wordCount": 5105,
+          "title": "Crows, Ghosts, And Autumn Bliss (October 2024 Wallpapers Edition)",
           "enclosure": {
-            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2023/oct-23-the-crow-and-the-ghosts-preview-opt.png",
             "length": "0",
             "type": "image/png"
           },
-          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png"
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2023/oct-23-the-crow-and-the-ghosts-preview-opt.png"
         },
         {
-          "id": "https://smashingmagazine.com/2024/08/integrating-image-to-text-and-text-to-speech-models-part2/",
-          "author": "hello@smashingmagazine.com (Joas Pambou)",
-          "description": "In the second part of this series, Joas Pambou aims to build a more advanced version of the previous application that performs conversational analyses on images or videos, much like a chatbot assistant. This means you can ask and learn more about your input content.",
-          "link": "https://smashingmagazine.com/2024/08/integrating-image-to-text-and-text-to-speech-models-part2/",
-          "publishedOn": "2024-08-30T09:00:00.000Z",
-          "wordCount": 5646,
-          "title": "Integrating Image-To-Text And Text-To-Speech Models (Part 2)",
+          "id": "https://smashingmagazine.com/2024/09/how-manage-dangerous-actions-user-interfaces/",
+          "author": "hello@smashingmagazine.com (Victor Ponamariov)",
+          "description": "One of the main laws that applies to almost everything in our lives, including building digital products, is Murphy’s Law: “Anything that can go wrong will go wrong.” Our goal is to prevent things from going wrong and, if they do, mitigate the consequences. In this article, Victor Ponamarev explores different strategies for preventing users from making mistakes.",
+          "link": "https://smashingmagazine.com/2024/09/how-manage-dangerous-actions-user-interfaces/",
+          "publishedOn": "2024-09-27T15:00:00.000Z",
+          "wordCount": 6830,
+          "title": "How To Manage Dangerous Actions In User Interfaces",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/integrating-image-to-text-and-text-to-speech-models-part2/integrating-image-to-text-and-text-to-speech-models.jpg",
+            "url": "http://files.smashing.media/articles/how-manage-dangerous-actions-user-interfaces/how-manage-dangerous-actions-user-interfaces.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/integrating-image-to-text-and-text-to-speech-models-part2/integrating-image-to-text-and-text-to-speech-models.jpg"
+          "imageUrl": "http://files.smashing.media/articles/how-manage-dangerous-actions-user-interfaces/how-manage-dangerous-actions-user-interfaces.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/",
-          "author": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
-          "description": "Want to create more randomized effects in your JavaScript code? The `Math.random()` method alone, with its limitations, won’t cut it for generating unique random numbers. Amejimaobari Ollornwi explains how to generate a series of unique random numbers using the `Set` object, how to use these random numbers as indexes for arrays, and explores some practical applications of randomization.",
-          "link": "https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/",
-          "publishedOn": "2024-08-26T15:00:00.000Z",
-          "wordCount": 3861,
-          "title": "Generating Unique Random Numbers In JavaScript Using Sets",
+          "id": "https://smashingmagazine.com/2024/09/timeless-power-of-spreadsheets/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
+          "description": "In this age of endless newfangled organizational tools, the spreadsheet holds firm. Frederick O’Brien explains how, from engineering to design, they can still provide a rock-solid foundation for your work.",
+          "link": "https://smashingmagazine.com/2024/09/timeless-power-of-spreadsheets/",
+          "publishedOn": "2024-09-23T09:00:00.000Z",
+          "wordCount": 3922,
+          "title": "The Timeless Power Of Spreadsheets",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/generating-unique-random-numbers-javascript-using-sets/generating-unique-random-numbers-javascript-using-sets.jpg",
+            "url": "http://files.smashing.media/articles/why-you-should-understand-how-work-with-spreadsheets/timeless-power-of-spreadsheets.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/generating-unique-random-numbers-javascript-using-sets/generating-unique-random-numbers-javascript-using-sets.jpg"
+          "imageUrl": "http://files.smashing.media/articles/why-you-should-understand-how-work-with-spreadsheets/timeless-power-of-spreadsheets.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2024/08/mastering-typography-in-logo-design/",
-          "author": "hello@smashingmagazine.com (Levi Honing)",
-          "description": "Finding the right typeface for a logo is a challenge and can be a very time-consuming process that requires both creativity and a practical approach. Levi Honing provides the essential background and tools to enhance your typography journey and apply this knowledge to your logo design. Let’s dive deep to learn how to create a logo that is not only expressive but also purposeful and well-thought-out.",
-          "link": "https://smashingmagazine.com/2024/08/mastering-typography-in-logo-design/",
-          "publishedOn": "2024-08-22T10:00:00.000Z",
-          "wordCount": 6667,
-          "title": "Mastering Typography In Logo Design",
+          "id": "https://smashingmagazine.com/2024/09/embracing-introversion-in-ux/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "This article aims to celebrate the power of introversion in UX research and design. Victor Yocco debunks common misconceptions, explores the unique strengths introverted researchers and designers bring to the table, and offers practical tips for thriving in a field that sometimes seems tailored for extroverts.",
+          "link": "https://smashingmagazine.com/2024/09/embracing-introversion-in-ux/",
+          "publishedOn": "2024-09-19T15:00:00.000Z",
+          "wordCount": 8591,
+          "title": "Embracing Introversion In UX",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/mastering-typography-in-logo-design/mastering-typography-in-logo-design.jpg",
+            "url": "http://files.smashing.media/articles/embracing-introversion-in-ux/embracing-introversion-in-ux.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/mastering-typography-in-logo-design/mastering-typography-in-logo-design.jpg"
+          "imageUrl": "http://files.smashing.media/articles/embracing-introversion-in-ux/embracing-introversion-in-ux.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/",
-          "author": "hello@smashingmagazine.com (Steven Levithan)",
-          "description": "Although JavaScript regexes used to be underpowered compared to other modern flavors, numerous improvements in recent years mean that’s no longer true. Steven Levithan evaluates the history and present state of regular expressions in JavaScript with tips to make your regexes more readable, maintainable, and resilient.",
-          "link": "https://smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/",
-          "publishedOn": "2024-08-20T15:00:00.000Z",
-          "wordCount": 5717,
-          "title": "Regexes Got Good: The History And Future Of Regular Expressions In JavaScript",
+          "id": "https://smashingmagazine.com/2024/09/svg-coding-examples-recipes-writing-vectors-by-hand/",
+          "author": "hello@smashingmagazine.com (Myriam Frisano)",
+          "description": "Myriam Frisano explores the basics of hand-coding SVGs with practical examples to demystify the inner workings of common SVG elements. In this guide, you’ll learn about asking the right questions to solve common positioning problems and how to leverage JavaScript so that, by the end, you can add “SVG coding” to your toolbox. You’ll also be able to declare proudly, “I know how to draw literal pictures with words!”",
+          "link": "https://smashingmagazine.com/2024/09/svg-coding-examples-recipes-writing-vectors-by-hand/",
+          "publishedOn": "2024-09-18T09:00:00.000Z",
+          "wordCount": 7092,
+          "title": "SVG Coding Examples: Useful Recipes For Writing Vectors By Hand",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/history-future-regular-expressions-javascript/history-future-regular-expressions-javascript.jpg",
+            "url": "http://files.smashing.media/articles/svg-coding-examples-recipes-writing-vectors-by-hand/svg-coding-examples-recipes-writing-vectors-by-hand.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/history-future-regular-expressions-javascript/history-future-regular-expressions-javascript.jpg"
+          "imageUrl": "http://files.smashing.media/articles/svg-coding-examples-recipes-writing-vectors-by-hand/svg-coding-examples-recipes-writing-vectors-by-hand.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2024/08/pricing-projects-freelancer-agency-owner/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "Discover effective pricing strategies for digital projects. Learn how to balance fixed pricing, time and materials, and value-based approaches while managing client expectations and scope creep.",
-          "link": "https://smashingmagazine.com/2024/08/pricing-projects-freelancer-agency-owner/",
-          "publishedOn": "2024-08-16T13:00:00.000Z",
-          "wordCount": 4699,
-          "title": "Pricing Projects As A Freelancer Or Agency Owner",
+          "id": "https://smashingmagazine.com/2024/09/creating-custom-lottie-animations-svgator/",
+          "author": "hello@smashingmagazine.com (Mihai Cora)",
+          "description": "Creating ready-to-implement Lottie animations with a single tool is now possible thanks to SVGator’s latest feature updates. In this article, you will learn how to create and animate a Lottie using SVGator, an online animation tool that has zero learning curve if you’re familiar with at least one design tool.",
+          "link": "https://smashingmagazine.com/2024/09/creating-custom-lottie-animations-svgator/",
+          "publishedOn": "2024-09-17T11:00:00.000Z",
+          "wordCount": 4797,
+          "title": "Creating Custom Lottie Animations With SVGator",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/pricing-projects-freelancer-agency-owner/pricing-projects-freelancer-agency-owner.jpg",
+            "url": "http://files.smashing.media/articles/creating-custom-lottie-animations-svgator/creating-custom-lottie-animations-svgator.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/pricing-projects-freelancer-agency-owner/pricing-projects-freelancer-agency-owner.jpg"
+          "imageUrl": "http://files.smashing.media/articles/creating-custom-lottie-animations-svgator/creating-custom-lottie-animations-svgator.jpg"
         }
       ]
     },
@@ -340,104 +335,104 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
-          "id": "https://www.freecodecamp.org/news/lessons-from-freelancing-for-dozens-of-startups-eddie-jaoude/",
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-css-component-library-step-by-step/",
+          "author": "Prankur Pandey",
+          "description": "Application development is a complex, multi-stage process, and it all begins with UI/UX design. Once the design phase is complete, the focus shifts to UI development, where tools like HTML, CSS, and JavaScript come into play. At a higher level, libra...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-css-component-library-step-by-step/",
+          "publishedOn": "2024-10-11T19:16:44.000Z",
+          "wordCount": 3315,
+          "title": "How to Build a CSS Component Library and Improve Your Web Development Skills",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728400677433/de06f432-0861-4ba4-ad7c-6e10157e2822.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/large-language-models-for-developers-and-businesses/",
+          "author": "Nazneen Ahmad",
+          "description": "Language learning models (LLMs) are evolving rapidly, reshaping AI in various industries. In this article, we’ll go over five LLMs that are currently making an impact with their advanced features and wide-ranging use cases. LLM Basics Before looking ...",
+          "link": "https://www.freecodecamp.org/news/large-language-models-for-developers-and-businesses/",
+          "publishedOn": "2024-10-11T16:01:18.000Z",
+          "wordCount": 2244,
+          "title": "Large Language Models for Developers and Businesses",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728677455013/ad0471d0-d888-4bfb-a47c-d41eb1b333fc.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/roadmapsh-founder-kamran-ahmed-podcast-145/",
           "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Eddie Jaoude who is a software engineer and open source creator. He's worked more than 15 years as a developer everywhere from Germany banking sector to London's tec...",
-          "link": "https://www.freecodecamp.org/news/lessons-from-freelancing-for-dozens-of-startups-eddie-jaoude/",
-          "publishedOn": "2024-09-13T18:32:51.000Z",
-          "wordCount": 891,
-          "title": "Lessons from freelancing for dozens of startups with Eddie Jaoude [Podcast #141]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726252226726/21c2eca2-f209-429a-977a-03f92144d2d0.png"
+          "description": "On this week's episode of the podcast, I interview Kamran Ahmed. He's a software engineer and founder of Roadmap.sh, which has skill tree roadmaps for lots of developer fields, such as DevOps. As a teacher, he's also a Google Developer Expert and a G...",
+          "link": "https://www.freecodecamp.org/news/roadmapsh-founder-kamran-ahmed-podcast-145/",
+          "publishedOn": "2024-10-11T14:14:16.000Z",
+          "wordCount": 1008,
+          "title": "Open Source Superstar and Roadmap.sh Founder Kamran Ahmed [Podcast #145]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728655903076/d4966eb0-43d1-4925-9ab6-e811ce6f1783.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-be-a-productive-developer/",
+          "id": "https://www.freecodecamp.org/news/how-to-use-git-stash-to-manage-code/",
+          "author": "Okoro Emmanuel Nzube Derek",
+          "description": "Sometimes when you’re coding, you need to leave a particular task incomplete to focus on another task – but you don't want to lose your progress. So what do you do? Fortunately, git stash comes to the rescue. In this article, you’ll learn all about t...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-git-stash-to-manage-code/",
+          "publishedOn": "2024-10-11T13:40:01.000Z",
+          "wordCount": 2519,
+          "title": "How to Use Git Stash to Efficiently Manage Your Code",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728563160215/147e5b8d-960d-4a90-ad2f-6d71337ac0ce.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-interview-prep-handbook/",
+          "author": "Kunal Nalawade",
+          "description": "Hi everyone! In the ever-changing landscape of web development, React is in very high demand. Companies are often seeking skilled React developers to build dynamic and engaging web applications. If you are a web developer or aspiring to be one, it's ...",
+          "link": "https://www.freecodecamp.org/news/react-interview-prep-handbook/",
+          "publishedOn": "2024-10-11T10:50:19.000Z",
+          "wordCount": 6533,
+          "title": "The React Interview Prep Handbook – Essential Topics and Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728643567956/00c98d19-4694-4942-9ad2-d2f25bcf05c0.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-tailwind-css-by-building-a-responsive-product-card/",
           "author": "Beau Carnes",
-          "description": "If you are having trouble accomplishing as much as you want to accomplish, we have a course for you. We just published a course on the freeCodeCamp.org YouTube channel that is designed to equip software developers with essential soft skills for boost...",
-          "link": "https://www.freecodecamp.org/news/how-to-be-a-productive-developer/",
-          "publishedOn": "2024-09-13T13:13:01.000Z",
-          "wordCount": 1088,
-          "title": "How to Be a Productive Developer",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726233167534/1e4979fc-9cef-482f-b6b8-6721b290ede1.png"
+          "description": "Are you looking to enhance your web design skills and create responsive websites more efficiently? Tailwind CSS, a utility-first CSS framework, has become a favorite among developers for its flexibility and speed in building modern web layouts. One o...",
+          "link": "https://www.freecodecamp.org/news/learn-tailwind-css-by-building-a-responsive-product-card/",
+          "publishedOn": "2024-10-11T01:33:57.000Z",
+          "wordCount": 1131,
+          "title": "Learn Tailwind CSS by Building a Responsive Product Card",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728610417740/2c081996-9a92-42d5-bee1-a380f2a0c1e4.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-use-chart-js-for-interactive-data-visualization/",
-          "author": "Oluwadamisi Samuel",
-          "description": "Data surrounds us, but its raw form can be overwhelming and difficult to interpret. That's where data visualization comes in. It can help you take your data and turn it into charts and graphs that make sense at a glance. Among the many data visualiza...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-chart-js-for-interactive-data-visualization/",
-          "publishedOn": "2024-09-12T12:57:36.000Z",
-          "wordCount": 6380,
-          "title": "How to Use Chart js for Interactive Data Visualization",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725821135508/79767987-8760-4626-a924-212e402b051f.png"
+          "id": "https://www.freecodecamp.org/news/python-zip-function-explained-with-examples/",
+          "author": "Sahil Mahapatra",
+          "description": "The zip() function in Python is a neat tool that allows you to combine multiple lists or other iterables (like tuples, sets, or even strings) into one iterable of tuples. Think of it like a zipper on a jacket that brings two sides together. In this g...",
+          "link": "https://www.freecodecamp.org/news/python-zip-function-explained-with-examples/",
+          "publishedOn": "2024-10-10T14:58:09.000Z",
+          "wordCount": 1983,
+          "title": "Python’s zip() Function Explained with Simple Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728351007032/90a321bb-4079-4480-90e7-7aa847c54d9d.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/learn-music-production-for-beginners/",
+          "id": "https://www.freecodecamp.org/news/learn-databases-in-depth/",
           "author": "Beau Carnes",
-          "description": "Are you interested in exploring the world of music production but don't know where to start? We just posted comprehensive course designed for beginners that will guide you through the process of creating music tracks in various styles using FL Studio...",
-          "link": "https://www.freecodecamp.org/news/learn-music-production-for-beginners/",
-          "publishedOn": "2024-09-11T20:08:18.000Z",
-          "wordCount": 1215,
-          "title": "Learn Music Production for Beginners",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726085276839/735597b4-50a4-4792-be6a-7bca34a732f9.png"
+          "description": "Understanding databases is important for a software developer. We just posted a comprehensive course on the freeCodeCamp.org YouTube channel designed to help you understand the complexities of database architecture and optimization. Whether you're a ...",
+          "link": "https://www.freecodecamp.org/news/learn-databases-in-depth/",
+          "publishedOn": "2024-10-09T20:44:08.000Z",
+          "wordCount": 1120,
+          "title": "Learn Databases In-Depth",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728506628887/76e245fd-9613-474c-9df3-626dde99d2fb.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/how-to-build-an-expense-tracker-with-html-css-and-javascript/",
-          "author": "Joan Ayebola",
-          "description": "Building projects is a great way to practice and improve your web development skills. And that's what we'll do in this in-depth tutorial: build a practical project using HTML, CSS, and JavaScript. If you often find yourself wondering where all your m...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-expense-tracker-with-html-css-and-javascript/",
-          "publishedOn": "2024-09-11T17:25:59.000Z",
-          "wordCount": 5439,
-          "title": "How to Build an Expense Tracker with HTML, CSS, and JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726055511234/dcaa759f-58f9-477d-92da-c8b98b71d310.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/api-testing-with-postman-a-step-by-step-guide-using-the-spotify-api/",
-          "author": "Matthes B.",
-          "description": "🎯 The Objective In this guide, I’ll introduce you to Postman, a popular API development and testing tool. If you are a beginner mainly focused on frontend development, you may not have had much experience fetching data from an API. And in that case ...",
-          "link": "https://www.freecodecamp.org/news/api-testing-with-postman-a-step-by-step-guide-using-the-spotify-api/",
-          "publishedOn": "2024-09-11T17:23:24.000Z",
-          "wordCount": 4279,
-          "title": "API Testing with Postman: A Step-by-Step Guide Using the Spotify API",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/uv5_bsypFUM/upload/ef5e3375e4ea08db6b5addd47afbc82f.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-event-handling-works-in-vue-3-guide-for-devs/",
-          "author": "Asfak Ahmed",
-          "description": "Event handling in Vue 3 allows developers to respond to user interactions like clicks, key presses, form submissions, and more. Vue provides simple and flexible ways to manage these interactions, enabling you to build dynamic and engaging application...",
-          "link": "https://www.freecodecamp.org/news/how-event-handling-works-in-vue-3-guide-for-devs/",
-          "publishedOn": "2024-09-11T17:21:14.000Z",
-          "wordCount": 1924,
-          "title": "How Event Handling Works in Vue 3: A Guide for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725980520061/87728aa1-f3c5-451d-9f11-5163f527d029.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/pass-the-azure-ai-engineer-associate-certification-ai-102/",
+          "id": "https://www.freecodecamp.org/news/prepare-to-pass-the-aws-certified-ai-practitioner-certification/",
           "author": "Beau Carnes",
-          "description": "Are you ready to take your AI skills to the next level and earn the Azure AI Engineer Associate Certification (AI-102)? We just posted a comprehensive course on the freeCodeCamp.org YouTube channel that is designed to help you prepare for and pass th...",
-          "link": "https://www.freecodecamp.org/news/pass-the-azure-ai-engineer-associate-certification-ai-102/",
-          "publishedOn": "2024-09-10T18:45:40.000Z",
-          "wordCount": 1200,
-          "title": "Pass the Azure AI Engineer Associate Certification (AI-102)",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725993924398/c2501267-b4ce-42cb-a73a-215d03a50aa0.png"
+          "description": "The AWS Certified AI Practitioner certification is a valuable credential that validates your understanding of AI, ML, and generative AI concepts and use cases. We just published a course on the freeCodeCamp.org YouTube channel that will help you prep...",
+          "link": "https://www.freecodecamp.org/news/prepare-to-pass-the-aws-certified-ai-practitioner-certification/",
+          "publishedOn": "2024-10-09T20:35:25.000Z",
+          "wordCount": 1226,
+          "title": "Prepare to Pass the AWS Certified AI Practitioner Certification",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728506087133/a2be701f-5b5d-48cb-b80a-3060cbf6ce79.png"
         },
         {
-          "id": "https://www.freecodecamp.org/news/shodan-what-to-know-about-the-internets-most-dangerous-search-engine/",
-          "author": "Manish Shivanandhan",
-          "description": "Shodan is a search engine that discovers devices connected to the internet. In this article, we’ll look at why it’s both a valuable tool and a potential threat. When you hear the term “search engine,” your mind likely jumps to Google, Bing, or Yahoo....",
-          "link": "https://www.freecodecamp.org/news/shodan-what-to-know-about-the-internets-most-dangerous-search-engine/",
-          "publishedOn": "2024-09-10T17:43:12.000Z",
-          "wordCount": 1770,
-          "title": "Shodan – What to Know About the Internet’s Most Dangerous Search Engine",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725990169364/3181020e-abd0-4943-a461-830c2a416035.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-ai-agents-can-supercharge-language-models-handbook/",
-          "author": "Vahe Aslanyan",
-          "description": "The rapid evolution of artificial intelligence (AI) has resulted in a powerful synergy between large language models (LLMs) and AI agents. This dynamic interplay is sort of like the tale of David and Goliath (without the fighting), where nimble AI ag...",
-          "link": "https://www.freecodecamp.org/news/how-ai-agents-can-supercharge-language-models-handbook/",
-          "publishedOn": "2024-09-10T17:01:16.000Z",
-          "wordCount": 21166,
-          "title": "How AI Agents Can Help Supercharge Language Models – A Handbook for Developers",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725987639185/f8bf1775-b3d3-415e-b864-4425484600f2.jpeg"
+          "id": "https://www.freecodecamp.org/news/essential-secure-design-principles-for-developers/",
+          "author": "Chama Jennane",
+          "description": "Secure design principles have long been the foundation for building secure systems. And they remain a crucial aspect of modern cybersecurity. Introduced in 1975 by Saltzer and Schroeder in their landmark paper The Protection of Information in Compute...",
+          "link": "https://www.freecodecamp.org/news/essential-secure-design-principles-for-developers/",
+          "publishedOn": "2024-10-09T20:17:10.000Z",
+          "wordCount": 2435,
+          "title": "How to Strengthen Your Code: Essential Secure Design Principles for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728461315564/0ec07485-8537-475e-8b15-3ab653ababfc.jpeg"
         }
       ]
     }
